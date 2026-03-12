@@ -36,3 +36,26 @@ AIDA64 Extreme Edition — это мощнейший комплекс диагн
 | **CPU**      | 35–42           | 68–82                    | Нагрузка зависит от системы охлаждения [[10]] |
 | **HardDisk** | 32–38           | 42–52                    | HDD нагреваются сильнее при активной записи [[8]] |
 | **GPU**      | 30–40           | 70–85                    | Интегрированная графика: ~65–75°C, дискретная: до 85°C [[14]][[20]] |
+
+
+7.
+
+8.
+Северный мост	Intel Ivy Bridge-DT IMC
+Южный мост	Intel Panther Point Q77
+
+11.
+| | GPU | x64 CPU |
+| :--- | :--- | :--- |
+| Memory Read | 3870 MB/s | 11355 MB/s |
+| Memory Write | 3929 MB/s | 11995 MB/s |
+| Memory Copy | 9698 MB/s | 11345 MB/s |
+| Single-Precision FLOPS | 42.90 GFLOPS | 212.1 GFLOPS |
+| Double-Precision FLOPS | Not Supported | 106.1 GFLOPS |
+| 24-bit Integer IOPS | 15.00 GIOPS | 105.7 GIOPS |
+| 32-bit Integer IOPS | 11.67 GIOPS | 105.8 GIOPS |
+| 64-bit Integer IOPS | 3.39 GIOPS | 26.49 GIOPS |
+| AES-256 | 363.1 MB/s | 11333 MB/s |
+| SHA-1 Hash | 681.5 MB/s | 2725 MB/s |
+| Single-Precision Julia | 19.89 FPS | 82.25 FPS |
+| Double-Precision Mandel | Not Supported | 45.64 FPS |
